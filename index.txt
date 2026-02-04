@@ -86,8 +86,6 @@ Clients
 
 alt = client logo
 
-
-
 # resume
 
 Resume
